@@ -27,7 +27,8 @@ contract NFTFD is ERC721URIStorage {
   }
   //Me touching the file for GitHUB CLI test
   // git config --global user.email "joakim.bergelin@gmail.com"
-  // Med ovanståend commando kommer git att påverka det centrala repositoriet
+  // Med ovanstående kommando kommer alltid email addressen att användas
+  // för alla repos på datorn
   // git add NFTDF.sol
   // git commit -m 'Min Förändring'
   // git push
@@ -35,15 +36,15 @@ contract NFTFD is ERC721URIStorage {
 
   //Me doing a second test.
   // git config user.email "joakim.bergelin@gmail.com"
-  // Med ovanståend commando kommer git att påverka det lokal repositoriet
+  // Med ovanstående kommando kommer git att överrida global email
   // git add NFTDF.sol
   // git commit -m 'Min Förändring'
   // git push
 
-  //Me dong a third test
-  // git config --global user.email "joakim.bergelin@gmail.com"
-  // Med ovanståend commando kommer git att påverka det centrala repositoriet
+  //Me doing a third test
+  // git config --global user.name "JoaBerra"
+  // Med ovanstående kommando kommer git alltid använda name vid commits
   // git add NFTDF.sol
-  // git commit -m 'Min Förändring'
+  // git commit -m 'Min andra förändring'
   // git push
 }
