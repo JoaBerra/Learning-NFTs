@@ -47,4 +47,6 @@ contract NFTFD is ERC721URIStorage {
   // git add NFTDF.sol
   // git commit -m 'Min andra förändring'
   // git push
+
+  // More changes to test remixd
 }
