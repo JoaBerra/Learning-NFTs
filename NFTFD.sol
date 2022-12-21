@@ -39,4 +39,11 @@ contract NFTFD is ERC721URIStorage {
   // git add NFTDF.sol
   // git commit -m 'Min Förändring'
   // git push
+
+  //Me dong a third test
+  // git config --global user.email "joakim.bergelin@gmail.com"
+  // Med ovanståend commando kommer git att påverka det centrala repositoriet
+  // git add NFTDF.sol
+  // git commit -m 'Min Förändring'
+  // git push
 }
