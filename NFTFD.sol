@@ -26,4 +26,17 @@ contract NFTFD is ERC721URIStorage {
     _setTokenURI(tokenID, tokenURI);
   }
   //Me touching the file for GitHUB CLI test
+  // git config --global user.email "joakim.bergelin@gmail.com"
+  // Med ovanståend commando kommer git att påverka det centrala repositoriet
+  // git add NFTDF.sol
+  // git commit -m 'Min Förändring'
+  // git push
+
+
+  //Me doing a second test.
+  // git config user.email "joakim.bergelin@gmail.com"
+  // Med ovanståend commando kommer git att påverka det lokal repositoriet
+  // git add NFTDF.sol
+  // git commit -m 'Min Förändring'
+  // git push
 }
